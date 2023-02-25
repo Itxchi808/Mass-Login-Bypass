@@ -21,4 +21,4 @@ python main.py
 <br>
 <br>
 <h3>Footer</h3>
-<p>Contact if you want to change paste : itachiakar@proton.me</p>
+<p>Contact if you want to change/paste : itachiakar@proton.me</p>
