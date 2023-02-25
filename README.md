@@ -15,3 +15,10 @@ python main.py
 <h2>Usage</h2>
 <code>python main.py
  How many page you want to receive ? > 3 </code>
+
+<br>
+<br>
+<br>
+<br>
+<h3>Footer</h3>
+<p>Contact if you want to change paste : itachiakar@proton.me</p>
